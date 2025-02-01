@@ -26,6 +26,10 @@ pandas
 numpy
 matplotlib
 seaborn
+streamlit
+pandas
+openpyxl
+
 
 
 
